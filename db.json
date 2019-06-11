@@ -5,14 +5,16 @@
       "name"   : "The Boeing Company",
       "type"   : "Equity",
       "region": "United States",
-      "timezone": "UTC-04"
+      "timezone": "UTC-04",
+      "email"   : "melvinjmani@gmail.com"
     },
     {
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited",
       "type"   : "Equity",
       "region": "United States",
-      "timezone": "UTC-04"
+      "timezone": "UTC-04",
+      "email"   : "melvinjmani@gmail.com"
     }
   ]
 }

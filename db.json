@@ -1,3 +1,18 @@
 {
-  "stock_symbols": []
+  "stock_symbols": [
+    {
+      "symbol" : "BA",
+      "name"   : "The Boeing Company",
+      "type"   : "Equity",
+      "region": "United States",
+      "timezone": "UTC-04"
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "type"   : "Equity",
+      "region": "United States",
+      "timezone": "UTC-04"
+    }
+  ]
 }

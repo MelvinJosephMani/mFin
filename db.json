@@ -1,6 +1,7 @@
 {
   "stock_symbols": [
     {
+      "id"     : 1,
       "symbol" : "BA",
       "name"   : "The Boeing Company",
       "type"   : "Equity",
@@ -9,6 +10,7 @@
       "email"   : "melvinjmani@gmail.com"
     },
     {
+      "id"     : 2,  
       "symbol": "BABA",
       "name": "Alibaba Group Holding Limited",
       "type"   : "Equity",
